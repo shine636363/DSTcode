@@ -10,7 +10,13 @@ function rest = run_DST(Seq)
 %
 %   It is provided for educational/research purpose only.
 %   If you find the software useful, please consider cite our paper. 
-%   "paper name"
+%
+%   @inproceedings{Tracking2016Xiao,
+%     title={Distractor-supported single target tracking in extremely cluttered scenes},
+%     Author = {Xiao, Jingjing and Qiao, Linbo and Stolkin, Rustam and Leonardis, Ale\v{s}},
+%     booktitle = {ECCV},
+%     Year = {2016}
+%   }
 %
 % Contact:
 %   Jingjing Xiao (shine636363@sina.com); Linbo Qiao (qiao.linbo@nudt.edu.cn)
